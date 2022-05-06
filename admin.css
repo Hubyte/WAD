@@ -1,0 +1,51 @@
+.menu {
+	width: 1240px;
+	height: 40px;
+	border-bottom: 2px solid rebeccapurple;
+	margin: 0;
+	background-color: #FFFFFF;
+	display: inline-flex;
+	list-style: none;
+}
+
+.tab1, .tab2, .tab3 {
+	font-size: 14px;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+.mgmt {
+	width: 900px;
+	height: 400px;
+	
+	background-color: #FFFFFF;
+	
+	margin: 0 auto;
+}
+.data {
+	font-size: 20px;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+p {
+	font-size: 14px;
+}
+.box2 {
+	width: 400px;
+	height: 200px;
+	padding-top: 50px;
+	padding-left: 240px;
+}
+.manageOne, .manageTwo {
+	width: 150px;
+	height: 100px;
+	border: 2px solid rebeccapurple;
+	background-color: #3FBFBD;
+	text-align: center;
+	padding-top: 30px;
+}
+.manageOne {
+	float: left;
+}
+.manageTwo {
+	float: right;
+}

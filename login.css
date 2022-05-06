@@ -1,0 +1,57 @@
+html {
+	font-family: 'Montserrat', sans-serif;
+	background-color: #E6F2F3;
+}
+body{
+	margin: 0 auto;
+}
+.login {
+	width: 450px;
+	height: 450px;
+	margin: 0 auto;
+}
+h1 {
+	font-size: 20px;
+	background-color: #3FBFBD;
+	margin: 0;
+	width: 1260px;
+	height: 40px;
+	padding-left: 20px;
+	padding-top: 10px;
+	color: #0E2CF0;
+	text-shadow: .5px .5px 0 black;
+}
+.loginOne {
+	float: left;
+}
+.loginTwo {
+	float: right;
+}
+.loginOne, .loginTwo {
+	font-size: 20px;
+	width: 150px;
+	height: 160px;
+	border: 2px solid rebeccapurple;
+	padding: .5em;
+	margin-top: 150px;
+	margin-bottom: 150px;
+	background-color: #FFFFFF;
+}
+.credentials {
+	font-size: 10px;
+	margin: 0.5em 0;
+}
+.box {
+	border: .5px solid rebeccapurple;
+	padding: .5em;
+	margin: 0;
+}
+.button {
+	font-size: 10px;
+	color: #FFFFFF;
+	text-align: center;
+	border: .5px #3FBFBD;
+	padding: .5em;
+	margin: 1.5em 0;
+	background-color: #3FBFBD;
+}
